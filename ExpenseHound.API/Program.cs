@@ -9,10 +9,11 @@ builder.Services.AddSingleton<ExpenseService>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowBlazor", 
-        builder => builder.WithOrigins("http://localhost:5029")
+    options.AddPolicy("AllowBlazorClient", 
+        builder => builder.WithOrigins("https://localhost:7192")
             .AllowAnyMethod()
             .AllowAnyHeader());
 });
@@ -28,10 +29,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseCors("AllowBlazorClient");
+
 app.UseAuthorization();
 
-app.UseCors("AllowBlazor");
-
 app.MapControllers();
+app.MapFallbackToFile("index.html");
 
 app.Run();
