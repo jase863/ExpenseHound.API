@@ -172,3 +172,4 @@ C:\Users\Infra\source\repos\ExpenseHound.API\ExpenseHound.API\obj\Debug\net8.0\r
 C:\Users\Infra\source\repos\ExpenseHound.API\ExpenseHound.API\obj\Debug\net8.0\ExpenseHound.API.pdb
 C:\Users\Infra\source\repos\ExpenseHound.API\ExpenseHound.API\obj\Debug\net8.0\ExpenseHound.API.genruntimeconfig.cache
 C:\Users\Infra\source\repos\ExpenseHound.API\ExpenseHound.API\obj\Debug\net8.0\ref\ExpenseHound.API.dll
+C:\Users\Infra\source\repos\ExpenseHound.API\ExpenseHound.API\obj\Debug\net8.0\ExpenseHound.API.sourcelink.json
