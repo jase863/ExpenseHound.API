@@ -13,7 +13,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowBlazorClient", 
-        builder => builder.WithOrigins("https://expensehound20241217154831-expensehound.azurewebsites.net/")
+        builder => builder.WithOrigins("https://expensehound20241217154831.azurewebsites.net/")
             .AllowAnyMethod()
             .AllowAnyHeader());
 });
