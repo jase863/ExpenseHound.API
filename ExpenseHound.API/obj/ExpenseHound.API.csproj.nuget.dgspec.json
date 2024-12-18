@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Infra\\source\\repos\\ExpenseHound.API\\ExpenseHound.API\\ExpenseHound.API.csproj": {}
+    "C:\\Users\\Infra\\Source\\Repos\\ExpenseHound.API\\ExpenseHound.API\\ExpenseHound.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Infra\\source\\repos\\ExpenseHound.API\\ExpenseHound.API\\ExpenseHound.API.csproj": {
+    "C:\\Users\\Infra\\Source\\Repos\\ExpenseHound.API\\ExpenseHound.API\\ExpenseHound.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Infra\\source\\repos\\ExpenseHound.API\\ExpenseHound.API\\ExpenseHound.API.csproj",
+        "projectUniqueName": "C:\\Users\\Infra\\Source\\Repos\\ExpenseHound.API\\ExpenseHound.API\\ExpenseHound.API.csproj",
         "projectName": "ExpenseHound.API",
-        "projectPath": "C:\\Users\\Infra\\source\\repos\\ExpenseHound.API\\ExpenseHound.API\\ExpenseHound.API.csproj",
+        "projectPath": "C:\\Users\\Infra\\Source\\Repos\\ExpenseHound.API\\ExpenseHound.API\\ExpenseHound.API.csproj",
         "packagesPath": "C:\\Users\\Infra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Infra\\source\\repos\\ExpenseHound.API\\ExpenseHound.API\\obj\\",
+        "outputPath": "C:\\Users\\Infra\\Source\\Repos\\ExpenseHound.API\\ExpenseHound.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Infra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

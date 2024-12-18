@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpenseHound.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa0be012db962f97e9a3b48d3ea6f379a817f9f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bf123d19906c770cc1dc3622fd7a44e1400fea0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpenseHound.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpenseHound.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
